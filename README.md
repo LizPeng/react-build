@@ -1,0 +1,2 @@
+一个基于react和webpack的项目的开发环境
+nodejs版本在7以上
